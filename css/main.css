@@ -1,0 +1,25 @@
+table {
+    margin: 0 auto;
+}
+thead {
+    background-color: rgb(146, 186, 119);
+    color: white;
+    text-align: center;
+}
+td {
+    color: rgb(243, 167, 60);
+}
+th, td {
+    padding: 5px;
+}
+input {
+    border:2px solid rgb(146, 186, 119);
+    margin-right: 3px;
+    color: black;
+}
+::placeholder {
+    color:rgb(146, 186, 119);
+}
+th {
+    text-align: center
+}
